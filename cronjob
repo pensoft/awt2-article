@@ -1,0 +1,2 @@
+* * * * * cd /var/www/ps-article/dev/public_html && /opt/remi/php81/root/bin/php artisan schedule:run >> /dev/null 2>&1
+
