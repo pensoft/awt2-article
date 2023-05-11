@@ -4,7 +4,7 @@ This application represent and incorporate **Article domain** of the system
 
 ## Installation
 ````shell
-git clone https://webstik@bitbucket.org/scalewest/article.git
+git clone https://github.com/pensoft/awt2-article.git
 # or if you already clone the repo
 git pull
 # or
